@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.98e05d9d.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.b4e84fa5.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.edf35268.js",
     "static/js/7774.a8f81901.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.a8f81901.chunk.js",
     "static/js/4355.19b49915.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4355.19b49915.chunk.js",
     "static/js/3032.420f576c.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3032.420f576c.chunk.js",
@@ -98,15 +98,15 @@
     "static/css/5881.79453b94.chunk.css": "https://display-test.socialwalls.com/widget/static/css/5881.79453b94.chunk.css",
     "static/js/5881.0857cd9e.chunk.js": "https://display-test.socialwalls.com/widget/static/js/5881.0857cd9e.chunk.js",
     "static/css/9573.8e808512.chunk.css": "https://display-test.socialwalls.com/widget/static/css/9573.8e808512.chunk.css",
-    "static/js/9573.14f2f112.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9573.14f2f112.chunk.js",
+    "static/js/9573.6dc90ab8.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9573.6dc90ab8.chunk.js",
     "static/css/7241.3713bc3c.chunk.css": "https://display-test.socialwalls.com/widget/static/css/7241.3713bc3c.chunk.css",
     "static/js/7241.e43fb7ad.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7241.e43fb7ad.chunk.js",
     "static/css/8572.50154324.chunk.css": "https://display-test.socialwalls.com/widget/static/css/8572.50154324.chunk.css",
-    "static/js/8572.ad8b89c5.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8572.ad8b89c5.chunk.js",
+    "static/js/8572.dbf245b5.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8572.dbf245b5.chunk.js",
     "static/css/4843.ed56300e.chunk.css": "https://display-test.socialwalls.com/widget/static/css/4843.ed56300e.chunk.css",
-    "static/js/4843.b7d2aeaa.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4843.b7d2aeaa.chunk.js",
+    "static/js/4843.acf25f44.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4843.acf25f44.chunk.js",
     "static/css/452.8e5593a8.chunk.css": "https://display-test.socialwalls.com/widget/static/css/452.8e5593a8.chunk.css",
-    "static/js/452.3c52fece.chunk.js": "https://display-test.socialwalls.com/widget/static/js/452.3c52fece.chunk.js",
+    "static/js/452.0a2dddda.chunk.js": "https://display-test.socialwalls.com/widget/static/js/452.0a2dddda.chunk.js",
     "static/css/1340.b0441a96.chunk.css": "https://display-test.socialwalls.com/widget/static/css/1340.b0441a96.chunk.css",
     "static/js/1340.87f6c0c9.chunk.js": "https://display-test.socialwalls.com/widget/static/js/1340.87f6c0c9.chunk.js",
     "static/css/2841.5343c4d6.chunk.css": "https://display-test.socialwalls.com/widget/static/css/2841.5343c4d6.chunk.css",
@@ -114,7 +114,7 @@
     "static/css/2524.e3c79354.chunk.css": "https://display-test.socialwalls.com/widget/static/css/2524.e3c79354.chunk.css",
     "static/js/2524.6f70442b.chunk.js": "https://display-test.socialwalls.com/widget/static/js/2524.6f70442b.chunk.js",
     "static/css/7709.0138a8e9.chunk.css": "https://display-test.socialwalls.com/widget/static/css/7709.0138a8e9.chunk.css",
-    "static/js/7709.8a876165.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7709.8a876165.chunk.js",
+    "static/js/7709.8ac5fb5b.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7709.8ac5fb5b.chunk.js",
     "static/css/1917.9bb9cf70.chunk.css": "https://display-test.socialwalls.com/widget/static/css/1917.9bb9cf70.chunk.css",
     "static/js/1917.cd7f7ccd.chunk.js": "https://display-test.socialwalls.com/widget/static/js/1917.cd7f7ccd.chunk.js",
     "static/css/460.7bc02553.chunk.css": "https://display-test.socialwalls.com/widget/static/css/460.7bc02553.chunk.css",
@@ -192,6 +192,6 @@
   },
   "entrypoints": [
     "static/css/main.98e05d9d.css",
-    "static/js/main.b4e84fa5.js"
+    "static/js/main.edf35268.js"
   ]
 }
