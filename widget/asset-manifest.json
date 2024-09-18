@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.98e05d9d.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.ad6e9a91.js",
-    "static/js/7774.ce68d8ce.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.ce68d8ce.chunk.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.1828b7ac.js",
+    "static/js/7774.7dbddc02.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.7dbddc02.chunk.js",
     "static/js/4355.19b49915.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4355.19b49915.chunk.js",
     "static/js/3032.420f576c.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3032.420f576c.chunk.js",
-    "static/js/5807.b215c0e4.chunk.js": "https://display-test.socialwalls.com/widget/static/js/5807.b215c0e4.chunk.js",
+    "static/js/6385.5adf263a.chunk.js": "https://display-test.socialwalls.com/widget/static/js/6385.5adf263a.chunk.js",
     "static/js/9031.b961a7eb.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9031.b961a7eb.chunk.js",
     "static/js/8454.df77e030.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8454.df77e030.chunk.js",
     "static/css/6451.cc07f663.chunk.css": "https://display-test.socialwalls.com/widget/static/css/6451.cc07f663.chunk.css",
@@ -187,11 +187,12 @@
     "static/css/2198.5b69c15a.chunk.css": "https://display-test.socialwalls.com/widget/static/css/2198.5b69c15a.chunk.css",
     "static/js/2198.6cfe7135.chunk.js": "https://display-test.socialwalls.com/widget/static/js/2198.6cfe7135.chunk.js",
     "static/js/7692.6ffbeb53.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7692.6ffbeb53.chunk.js",
+    "static/media/logo.png": "https://display-test.socialwalls.com/widget/static/media/logo.7f0c166dfd010f1a3773.png",
     "index.html": "https://display-test.socialwalls.com/widget/index.html",
     "static/media/index.cjs": "https://display-test.socialwalls.com/widget/static/media/index.cd351d7c31d0d3fccf96.cjs"
   },
   "entrypoints": [
     "static/css/main.98e05d9d.css",
-    "static/js/main.ad6e9a91.js"
+    "static/js/main.1828b7ac.js"
   ]
 }
