@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.9b806cdb.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.95938900.js",
-    "static/js/7774.2adbcded.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.2adbcded.chunk.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.d5ef80b6.js",
+    "static/js/7774.995c4eaf.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.995c4eaf.chunk.js",
     "static/js/4355.06b26052.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4355.06b26052.chunk.js",
     "static/js/3032.42edcb80.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3032.42edcb80.chunk.js",
     "static/js/5807.430f6133.chunk.js": "https://display-test.socialwalls.com/widget/static/js/5807.430f6133.chunk.js",
@@ -23,7 +23,7 @@
     "static/css/7958.4545136e.chunk.css": "https://display-test.socialwalls.com/widget/static/css/7958.4545136e.chunk.css",
     "static/js/7958.bd8f1db9.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7958.bd8f1db9.chunk.js",
     "static/css/9605.bacbab3d.chunk.css": "https://display-test.socialwalls.com/widget/static/css/9605.bacbab3d.chunk.css",
-    "static/js/9605.e1c9f2da.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9605.e1c9f2da.chunk.js",
+    "static/js/9605.0d944ac4.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9605.0d944ac4.chunk.js",
     "static/css/2389.85b124a3.chunk.css": "https://display-test.socialwalls.com/widget/static/css/2389.85b124a3.chunk.css",
     "static/js/2389.976e2c70.chunk.js": "https://display-test.socialwalls.com/widget/static/js/2389.976e2c70.chunk.js",
     "static/css/7535.f2b457f8.chunk.css": "https://display-test.socialwalls.com/widget/static/css/7535.f2b457f8.chunk.css",
@@ -194,6 +194,6 @@
   },
   "entrypoints": [
     "static/css/main.9b806cdb.css",
-    "static/js/main.95938900.js"
+    "static/js/main.d5ef80b6.js"
   ]
 }
