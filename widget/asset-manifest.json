@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.9e3d88a8.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.82ded84b.js",
-    "static/js/7774.53f52c5f.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.53f52c5f.chunk.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.72b7a387.js",
+    "static/js/7774.6fe6ed6e.chunk.js": "https://display-test.socialwalls.com/widget/static/js/7774.6fe6ed6e.chunk.js",
     "static/js/4355.a1215efb.chunk.js": "https://display-test.socialwalls.com/widget/static/js/4355.a1215efb.chunk.js",
     "static/js/3032.42edcb80.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3032.42edcb80.chunk.js",
     "static/js/5807.1bcda381.chunk.js": "https://display-test.socialwalls.com/widget/static/js/5807.1bcda381.chunk.js",
@@ -194,6 +194,6 @@
   },
   "entrypoints": [
     "static/css/main.9e3d88a8.css",
-    "static/js/main.82ded84b.js"
+    "static/js/main.72b7a387.js"
   ]
 }
