@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/socialwall_theme/static/css/main.9e3d88a8.css",
-    "main.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/main.cf84e77b.js",
+    "main.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/main.c0eadd9f.js",
     "static/js/854.c3696e8f.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/854.c3696e8f.chunk.js",
     "static/js/8689.de72d3bd.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/8689.de72d3bd.chunk.js",
-    "static/js/5505.b9560756.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/5505.b9560756.chunk.js",
+    "static/js/5505.6c930296.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/5505.6c930296.chunk.js",
     "static/js/4674.7c2bc051.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/4674.7c2bc051.chunk.js",
     "static/js/9468.7deaf4f5.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/9468.7deaf4f5.chunk.js",
     "static/js/2665.f67c4fe6.chunk.js": "https://display-test.socialwalls.com/socialwall_theme/static/js/2665.f67c4fe6.chunk.js",
@@ -194,6 +194,6 @@
   },
   "entrypoints": [
     "static/css/main.9e3d88a8.css",
-    "static/js/main.cf84e77b.js"
+    "static/js/main.c0eadd9f.js"
   ]
 }
