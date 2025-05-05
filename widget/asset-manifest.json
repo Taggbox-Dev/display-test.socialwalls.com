@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.1da5186a.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.421ee3ab.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.03b76366.js",
     "static/js/8689.0c4b32a0.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8689.0c4b32a0.chunk.js",
     "static/css/142.546acb9c.chunk.css": "https://display-test.socialwalls.com/widget/static/css/142.546acb9c.chunk.css",
     "static/js/142.7d3e01a8.chunk.js": "https://display-test.socialwalls.com/widget/static/js/142.7d3e01a8.chunk.js",
@@ -135,8 +135,8 @@
     "static/js/9201.edd43641.chunk.js": "https://display-test.socialwalls.com/widget/static/js/9201.edd43641.chunk.js",
     "static/css/3758.987cb19e.chunk.css": "https://display-test.socialwalls.com/widget/static/css/3758.987cb19e.chunk.css",
     "static/js/3758.ad6a853d.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3758.ad6a853d.chunk.js",
-    "static/css/3356.58062efc.chunk.css": "https://display-test.socialwalls.com/widget/static/css/3356.58062efc.chunk.css",
-    "static/js/3356.3884a03e.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3356.3884a03e.chunk.js",
+    "static/css/3356.a421bf39.chunk.css": "https://display-test.socialwalls.com/widget/static/css/3356.a421bf39.chunk.css",
+    "static/js/3356.e8da8043.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3356.e8da8043.chunk.js",
     "static/css/3883.44fb9c3d.chunk.css": "https://display-test.socialwalls.com/widget/static/css/3883.44fb9c3d.chunk.css",
     "static/js/3883.024f70c7.chunk.js": "https://display-test.socialwalls.com/widget/static/js/3883.024f70c7.chunk.js",
     "static/css/5104.5ef737ea.chunk.css": "https://display-test.socialwalls.com/widget/static/css/5104.5ef737ea.chunk.css",
@@ -192,6 +192,6 @@
   },
   "entrypoints": [
     "static/css/main.1da5186a.css",
-    "static/js/main.421ee3ab.js"
+    "static/js/main.03b76366.js"
   ]
 }
