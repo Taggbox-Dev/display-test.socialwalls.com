@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://widget.taggbox.com/socialwall_theme/static/css/main.c11e6eaa.css",
-    "main.js": "https://widget.taggbox.com/socialwall_theme/static/js/main.3c359dc2.js",
+    "main.js": "https://widget.taggbox.com/socialwall_theme/static/js/main.45b764ba.js",
     "static/js/854.5468defe.chunk.js": "https://widget.taggbox.com/socialwall_theme/static/js/854.5468defe.chunk.js",
     "static/js/8689.313564ce.chunk.js": "https://widget.taggbox.com/socialwall_theme/static/js/8689.313564ce.chunk.js",
     "static/js/5505.e241d592.chunk.js": "https://widget.taggbox.com/socialwall_theme/static/js/5505.e241d592.chunk.js",
@@ -198,6 +198,6 @@
   },
   "entrypoints": [
     "static/css/main.c11e6eaa.css",
-    "static/js/main.3c359dc2.js"
+    "static/js/main.45b764ba.js"
   ]
 }
