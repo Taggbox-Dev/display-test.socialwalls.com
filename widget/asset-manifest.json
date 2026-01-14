@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://display-test.socialwalls.com/widget/static/css/main.88f14b5d.css",
-    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.8d207e41.js",
+    "main.js": "https://display-test.socialwalls.com/widget/static/js/main.fa8bbfab.js",
     "static/js/854.d41def23.chunk.js": "https://display-test.socialwalls.com/widget/static/js/854.d41def23.chunk.js",
     "static/js/8689.6465f4ea.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8689.6465f4ea.chunk.js",
     "static/js/5505.ebc79b25.chunk.js": "https://display-test.socialwalls.com/widget/static/js/5505.ebc79b25.chunk.js",
@@ -120,7 +120,7 @@
     "static/css/2687.7fcfdb39.chunk.css": "https://display-test.socialwalls.com/widget/static/css/2687.7fcfdb39.chunk.css",
     "static/js/2687.71ceba60.chunk.js": "https://display-test.socialwalls.com/widget/static/js/2687.71ceba60.chunk.js",
     "static/css/8396.c1db14d0.chunk.css": "https://display-test.socialwalls.com/widget/static/css/8396.c1db14d0.chunk.css",
-    "static/js/8396.0a7dd1d4.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8396.0a7dd1d4.chunk.js",
+    "static/js/8396.87ebdec2.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8396.87ebdec2.chunk.js",
     "static/css/8289.e979cf9c.chunk.css": "https://display-test.socialwalls.com/widget/static/css/8289.e979cf9c.chunk.css",
     "static/js/8289.bcd9d30a.chunk.js": "https://display-test.socialwalls.com/widget/static/js/8289.bcd9d30a.chunk.js",
     "static/css/9283.50154324.chunk.css": "https://display-test.socialwalls.com/widget/static/css/9283.50154324.chunk.css",
@@ -212,6 +212,6 @@
   },
   "entrypoints": [
     "static/css/main.88f14b5d.css",
-    "static/js/main.8d207e41.js"
+    "static/js/main.fa8bbfab.js"
   ]
 }
